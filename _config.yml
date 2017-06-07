@@ -11,8 +11,6 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   ODEM is a
 
-
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opendataexpmechanics" # the base hostname & protocol for your site
 
@@ -21,8 +19,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 built-by: webjeda
-copyright: OpenDataExpMechanics
-   name: webjeda
+copyright:
+   name: OpenDataExpMechanics
    link: 'http://blog.webjeda.com'
 
 # Build settings
