@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Open Data for Experimental Mechanics: from idea to project"
-date:   2017-06-16 20:31:00
 img: image-4.png
 categories:
 ---
