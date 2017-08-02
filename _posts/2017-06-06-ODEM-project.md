@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 1: Survey for the needs of potential users"
+title:  "From project to idea"
 date: 2017-06-06 21:06:26 +0800
 categories: Blog
 ---
@@ -12,7 +12,7 @@ We started working around this theory, I went to Patrick's lab in Germany as an 
 
 In our every day work, I mostly do experimental work, I set up experiments involving several materials being pulled and broken apart while measuring displacements and loads; Patrick, on the other hand, mostly focuses on programming and implementing models to perform the best possible simulations of the experiments I setup in the laboratory.
 It is through this workflow that we started realizing that other publications about similar experiments did not contain enough information to completely model the experiment or reproduce it. The complete raw experimental data is usually not available, and, when it is possible to get the raw data, it is quite hard to work with since there is no standardized format to present that data. The experiments we do in the laboratory also started to appear less and less valuable, the only thing that appeared to be really valuable are the publications which could be written out of the experimental data.
-
+<!--description-->
 A few weeks ago, we heard of the [Mozilla Science Mini-Grants](https://science.mozilla.org/blog/mini-grant-cfp) and decided to try to use this opportunity to setup a project addressing these issues. We worked hard to be able to send a grant demand to the Mozilla foundation and decided to share some of the answers we sent to the foundation in this blog, which will also be used to track the project's progress.
 
 
