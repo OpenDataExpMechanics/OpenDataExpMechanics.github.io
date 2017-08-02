@@ -1,24 +1,22 @@
-<footer>
-    <div class="container">
-        <div class="row p20">
-            {% if site.copyright.name %}
-                <div class="col-md-4 text-center mt25">All rights reserved by {{site.copyright.name}}</div>
-            {% endif %}
-
-            <div class="col-md-4 text-center mt25" >
-                {% if site.built-by %}
-                <a target="_blank" href="http://webjeda.com"><img src="https://img.shields.io/badge/Built%20by-webjeda-blue.svg" alt="{{site.built-by}}"></a>
-                {% endif %}
-            </div>
-            <div class="col-md-4 text-center mt25">
-		<!--
-                <a target="_blank" href="{{site.facebook}}"><li class="social facebook"><img src="{{site.baseurl}}/images/facebook.svg" alt="{{site.facebook}}"></li></a>
-                <a target="_blank" href="{{site.quora}}"><li class="social quora"><img src="{{site.baseurl}}/images/quora.svg" alt="{{site.quora}}"></li></a>
-		-->
-		<a target="_blank" href="{{site.twitter}}"><li class="social twitter"><img src="{{site.baseurl}}/images/twitter.svg" alt="{{site.twitter}}"></li></a>
-                <a target="_blank" href="{{site.github}}"><li class="social github"><img src="{{site.baseurl}}/images/github.svg" alt="{{site.github}}"></li></a>
-            </div>
-
-        </div>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer left column one-half">
+      <section class="small-font">
+        Theme <a href="https://github.com/wild-flame/jekyll-simple"> Simple </a> by <a href="http://wildflame.me">wildflame</a>
+        © 2016 
+        Powered by <a href="https://github.com/jekyll/jekyll">jekyll</a>
+      </section>
     </div>
+
+    <div class="footer right column one-half">
+      <section class="small-font">
+        {% if site.github_username %}
+        {% include icon-github.html username=site.github_username %}
+        {% endif %}
+        {% if site.twitter_username %}
+        {% include icon-twitter.html username=site.twitter_username %}
+        {% endif %}
+      </section>
+    </div>
+  </div>
 </footer>

@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "From idea to project"
-img: OpenCanvas.png
-categories:
+title:  "Episode 1: Survey for the needs of potential users"
+date: 2017-06-06 21:06:26 +0800
+categories: Blog
 ---
-
 
 ### Context and background
 

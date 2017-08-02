@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Episode 1: Survey for the needs of potential users"
-img: 01-cover.png
-categories:
+date: 2017-07-28 21:06:26 +0800
+categories: Episode
 ---
 
 With our first episode we wanted to get feedback from potential users from the experimental mechanics and computational engineering fields about our project idea. 
