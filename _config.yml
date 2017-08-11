@@ -9,9 +9,7 @@
 title: Open Data in Experimental Mechanics
 email: contact@openexpmechanics.science
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Open Data in Experimental Mechanics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opendataexpmechanics.github.io/" # the base hostname & protocol for your site
 twitter_username: OpenDataExpMech
@@ -21,6 +19,13 @@ github_username:  OpenDataExpMechanics
 markdown: kramdown
 kramdown:
   input: GFM
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
 
 # Third-party services
 # just leave someone empty to disable it
