@@ -11,7 +11,7 @@ email: contact@openexpmechanics.science
 description: > # this means to ignore newlines until "baseurl:"
    Open Data in Experimental Mechanics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://opendataexpmechanics.github.io/" # the base hostname & protocol for your site
+url: "http://www.openexpmechanics.science" # the base hostname & protocol for your site
 twitter_username: OpenDataExpMech
 github_username:  OpenDataExpMechanics 
 
