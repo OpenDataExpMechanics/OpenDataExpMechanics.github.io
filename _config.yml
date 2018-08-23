@@ -25,7 +25,7 @@ sass:
   style: compressed
 
   #plugins_dir:
-        #  - jekyll-seo-tag
+          - jekyll-seo-tag
 
 # Third-party services
 # just leave someone empty to disable it
