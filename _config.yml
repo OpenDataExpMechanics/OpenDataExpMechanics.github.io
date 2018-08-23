@@ -24,7 +24,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-  #plugins_dir:
+  plugins_dir:
           - jekyll-seo-tag
 
 # Third-party services
