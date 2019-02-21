@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Episode 4: Long term availability of raw experimental data in experimental fracture mechanics "
+date: 2018-12-08 18:32:26 -0400
+categories: Episode
+---
+
+In this episode, we briefly present the results of our first paper [1]. Having access to raw experimental data is a cornerstone for reproducibility in experimental fracture mechanics, which is crucial to the scientific method. First, we present the methodology of the paper. Second, we go briefly through the main finding of the study. Last, we emphasize some potential solution to address the found issues.
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/578789403&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+### References
+
+1. Patrick Diehl, Ilyass Tabiai, Felix W. Baumann, Daniel Therriault, and Martin Levesque. Long term availability of raw experimental data in experimental fracture mechanics. Engineering Fracture Mechanics, 197:21–26, 2018 [link](https://www.sciencedirect.com/science/article/pii/S0013794418303023), [preprint](https://arxiv.org/abs/1803.07622)
