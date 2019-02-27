@@ -13,3 +13,5 @@ In this episode, we briefly present the results of our first paper [1]. Having a
 ### References
 
 1. Patrick Diehl, Ilyass Tabiai, Felix W. Baumann, Daniel Therriault, and Martin Levesque. Long term availability of raw experimental data in experimental fracture mechanics. Engineering Fracture Mechanics, 197:21–26, 2018 [link](https://www.sciencedirect.com/science/article/pii/S0013794418303023), [preprint](https://arxiv.org/abs/1803.07622)
+2. T. H. Vines, A. Y. Albert, R. L. Andrew, F. Debarre,D. G. Bock, M. T. Franklin, K. J. Gilbert, J.-S. Moore,S. Renaut, and D. J. Rennison. The availability of research data declines rapidly with article age.Currentbiology, 24(1):94–97, 2014.
+3. M. Baker. 1,500 scientists lift the lid on reproducibil-ity.Nature News, 533(7604):452, 2016.
